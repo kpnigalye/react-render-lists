@@ -1,4 +1,6 @@
-# Layout Components: Render Lists
+# React Design Patterns 
+
+## Layout Components: Render Lists
 
 Sample project to show how to write reusable lists components
 
